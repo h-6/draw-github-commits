@@ -1,0 +1,6 @@
+.grid { margin:1em auto; border-collapse:collapse }
+.grid td {
+    cursor:pointer;
+    width:15px; height:15px;
+    border:1px solid #ccc;
+}
